@@ -21,3 +21,5 @@ try:
 #error handling
 except ValueError:
     print("Please enter a valid number.")
+
+#final cleanup
