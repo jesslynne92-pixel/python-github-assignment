@@ -3,7 +3,7 @@
 
 print("Welcome to my Python program!")
 
-# Ask user for input
+# user input section
 hours = input("How many hours did you study today? ")
 
 try:
